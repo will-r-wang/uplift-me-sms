@@ -1,24 +1,3 @@
-# README
+# Uplift Me SMS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Basic proof-of-concept SMS app using Twilio and the quotes rest API that sends an uplifting message to a subscriber every day.
